@@ -2,8 +2,7 @@ import React, { Component } from 'react';
 import { Button } from '@alifd/next';
 
 const brandlist = [
-  require('./images/TB14LkieuSBuNjy1XcXXcYjFXa-226-78.png'),
-  require('./images/TB1LgSMibuWBuNjSszgXXb8jVXa-206-72.png'),
+  require('./images/django(1).jpg'),
   require('./images/TB1jFDwiamWBuNjy1XaXXXCbXXa-284-56.png'),
   require('./images/TB147fnikSWBuNjSszdXXbeSpXa-180-68.png'),
   require('./images/TB1fdJliDtYBeNjy1XdXXXXyVXa-208-78.png'),

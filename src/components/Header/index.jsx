@@ -4,6 +4,12 @@ import './index.scss';
 
 const MENUS = [
   {
+    name: 'Django中文网',
+    path: 'https://www.django.cn',
+  }, {
+    name: '博客',
+    path: 'https://www.88cto.com',
+  }, {
     name: '特点',
     path: '#feature',
   },
