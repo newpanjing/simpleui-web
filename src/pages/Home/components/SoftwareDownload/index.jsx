@@ -44,7 +44,7 @@ export default class ReleaseIntro extends Component {
               <div style={styles.softwareDetail}>
                 <div style={styles.version}>
                   <span style={{ display: 'block' }}>
-                    2.16.0
+                    2.0
                   </span>
                   <span style={{ display: 'block', fontSize: 12 }}>
                     当前版本
@@ -53,7 +53,7 @@ export default class ReleaseIntro extends Component {
                 <div style={styles.separator}/>
                 <div style={styles.history}>
                   <span style={{ display: 'block' }}>
-                    2018-04-23
+                    2019年04月16日
                   </span>
                   <span style={{ display: 'block', fontSize: 12 }}>
                     发布日期
